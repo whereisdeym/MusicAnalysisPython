@@ -1,4 +1,4 @@
-# spotikabra
+# MusicAnalysisPython
 Ce projet vise à analyser les tendances musicales en utilisant des bibliothèques Python pour manipuler, visualiser et modéliser des données. Il repose sur un dataset contenant des informations sur des chansons telles que le titre, l'artiste, le genre, l'année de sortie et le nombre d'écoutes. L'objectif principal est d'extraire des insights utiles, comme les genres dominants ou les années marquantes, et de construire un modèle prédictif pour estimer la popularité des chansons.
 
 # requierements
@@ -15,7 +15,7 @@ Deux fichier ipynb sont mis à disposition pour regrouper les differents code av
 - **R²** :le modèle explique 78% de la variance des données
 - **MAE** :le modèle fait une erreur moyenne de 10,000 écoutes par chanson
 
-### Ce que je penses de ce modèle
+## Ce que je penses de ce modèle
 Le modèle est globalement satisfaisant, mais il peut être amélioré. Un R² de 0.78 montre que le modèle capture bien la relation entre les variables explicatives et le nombre d'écoutes, mais il reste une marge d'erreur significative. 
 Les axes d'amélioration possibles incluent :
 1. Ajouter d'autres variables explicatives comme la durée de la chanson, le pays, ou même les paroles.
