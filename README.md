@@ -2,13 +2,13 @@
 Ce projet vise à analyser les tendances musicales en utilisant des bibliothèques Python pour manipuler, visualiser et modéliser des données. Il repose sur un dataset contenant des informations sur des chansons telles que le titre, l'artiste, le genre, l'année de sortie et le nombre d'écoutes. L'objectif principal est d'extraire des insights utiles, comme les genres dominants ou les années marquantes, et de construire un modèle prédictif pour estimer la popularité des chansons.
 
 # requierements
-Un fichier requierement est mise à disposition pour ilustrer les dépendanaces utiliser pour ce projet
-Vous pouvez les installer grace à la commande: !pip install requirements.txt
+Un fichier requierement est mise à disposition pour illustrer les dépendances utiliser pour ce projet
+Vous pouvez les installer grâce à la commande: !pip install requirements.txt
 
 # arborescence
-Ce projet est composé d'un dossier "data1" où est stoqué deux fichier .csv qu'on va étuliser durant tout le projet. Le csv Spotify-2000 est le dataset brute et le cleaned_spotify_data.csv est la version néttoyé avec que des champs important qu'on utilisera durant tout le projet.
-Le fichier texte requierements contient toutes les dépendanaces de ce projet.
-Deux fichier ipynb sont mis à disposition pour regrouper les differents code avec des commentaire explicatives dans un sens cronologique selon les consignes. Impossible de se perdre avec ça.
+Ce projet est composé d'un dossier "data1" où est stocké deux fichier .csv qu'on va utiliser durant tout le projet. Le csv Spotify-2000 est le dataset brute et le cleaned_spotify_data.csv est la version nettoyé avec que des champs important qu'on utilisera durant tout le projet.
+Le fichier texte requierements contient toutes les dépendances de ce projet.
+Deux fichier ipynb sont mis à disposition pour regrouper les différents code avec des commentaire explicatives dans un sens chronologique selon les consignes. Impossible de se perdre avec ça.
 
 # Évaluation du modèle
 ## Résultats
